@@ -1,2 +1,2 @@
 # stanley
- Meu Site
+ Meu Site Completo.
