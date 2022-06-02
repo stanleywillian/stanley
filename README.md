@@ -1,4 +1,4 @@
 # stanley
  Meu Site Completo.
 
- 01/06/2022 - 10:20
+ 02/06/2022
