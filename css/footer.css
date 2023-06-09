@@ -1,0 +1,11 @@
+@charset "UTF-8";
+footer {
+    margin: 5px;
+    padding: 5px;
+    border-top: 1px solid silver;
+
+}
+.footer-p {
+    margin: auto;
+    text-align: center;
+}
